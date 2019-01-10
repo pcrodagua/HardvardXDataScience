@@ -1,2 +1,2 @@
 # HardvardXDataScience
-HardvardXDataScience Course
+Notes on HardvardXDataScience Course
